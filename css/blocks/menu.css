@@ -1,0 +1,22 @@
+.menu {
+    line-height: 22px;
+    display: flex;
+
+}
+
+.menu__list {
+    display: flex;
+}
+
+.menu__item {
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+.menu__link {
+    font-size: 16px;
+}
+
+.menu__link:hover {
+    color: #8F00FF;
+}

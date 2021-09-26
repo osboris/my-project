@@ -1,0 +1,9 @@
+.logo {
+    width: 168px;
+    vertical-align: middle;
+    margin-right: 90px;
+}
+
+.logo__img {
+    width: 100%;
+}
