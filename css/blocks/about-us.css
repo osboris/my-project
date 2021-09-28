@@ -1,0 +1,48 @@
+.about-us {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.container-about-us {
+    display: inline-flex;
+
+}
+
+.about-us__content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 96px;
+    margin-left: -137px;
+    width: 785px;
+    height: 455px;
+    min-height: 0px;
+    background: linear-gradient(71.43deg, #8F00FF 0%, #148CFF 100%), #212121;
+    border-radius: 5px;
+    padding: 70px 207px 70px 80px;
+}
+
+.about-us__title {
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 10px;
+}
+
+.about-us__text {
+    margin-top: 37px;
+}
+
+.about-us__button {
+    margin-top: 43px;
+    color: Linear Gradient
+    rgba(143, 0, 255, 1)
+    rgba(20, 140, 255, 1)
+    rgba(33, 33, 33, 1);
+    border: 1px solid #FFFFFF;
+}
+
+.about-us__img {
+    border-radius: 5px;
+    display: block;
+    width: 489px;
+    height: 505px;
+}
